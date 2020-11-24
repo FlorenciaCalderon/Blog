@@ -9,6 +9,8 @@
 }
 
 
+
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -74,6 +76,11 @@ body {
 #tab2:hover,
 #tab3:hover{
   background-color:rgb(245, 23, 160,0.5) ;
+}
+
+button:focus {
+  border: none;
+  outline: none;
 }
 
 
