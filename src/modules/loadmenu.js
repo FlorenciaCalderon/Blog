@@ -1,6 +1,6 @@
 function createMenu(){
     const menu=document.getElementById("about");
-    menu.style.backgroundImage="url(shrooms.jpg)";
+    menu.style.backgroundImage="url(amanita.jpg)";
     menu.innerHTML="";
 }
 
