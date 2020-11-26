@@ -88,7 +88,7 @@ button:focus {
 #about {
   grid-area: about;
   background-image:url(library.jpg);
-  height: 100vh;
+  height: 140vh;
   padding-top: 100px;
   padding-left:100px;
   padding-right:100px;
